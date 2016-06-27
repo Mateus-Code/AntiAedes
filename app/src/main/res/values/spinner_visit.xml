@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="visit_situation">
+        <item>Nenhuma Medida</item>
+        <item>Resolvido</item>
+        <item>Pendente</item>
+    </string-array>
+</resources>
